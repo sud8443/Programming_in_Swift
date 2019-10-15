@@ -1,0 +1,1 @@
+This is a repository to collect all the algorithms written in swift. Feel free to make PR's to it.
